@@ -6,7 +6,7 @@ An interactive browser-based educational game for learning the RISC-V RV32I inst
 
 **[Try it online](https://sw-embed.github.io/risc-v-rs/)**
 
-![RISC-V RV32I Emulator Screenshot](images/risc-v-interface.png)
+![RISC-V RV32I Emulator Screenshot](images/risc-v-interface.png?ts=1772049940000)
 
 ## Features
 
